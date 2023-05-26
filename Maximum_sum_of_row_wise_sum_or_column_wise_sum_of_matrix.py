@@ -7,3 +7,4 @@ for i in range(n):
     for j in range(m):
         c[j]=c[j]+a[j]
 print(max(b+c))
+        
